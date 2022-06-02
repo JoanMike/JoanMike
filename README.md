@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoanMike
+- 👋 Hi, I’m @Joanmike
 - 👀 I'm interested in learning as many programming languages as possible.
 - 🌱 I’m currently learning Java
 

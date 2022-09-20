@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joanmike
-- 👀 I'm interested in learning as many programming languages as possible.
-- 🌱 I’m currently learning Java
+- 👀 My goal is to learn as much as possible.
+- 🌱 I like code.
 
 I was always curious to learn how to program. 
 In fact, I was trying to learn many years ago, but I had to give it up. 

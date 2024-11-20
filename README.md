@@ -10,6 +10,17 @@
 
 <h4 align="center">🌱 I’m currently learning C#, Python without leaving aside the amazing Java.<br><br>❤️ I love discovering new ways to automate my work.<br><br>💬 Ask me about VBA and process automation</h4>
 
+
+<a href="https://www.credly.com/badges/1601cc75-e17a-4f0b-8c9d-c9192d718370/public_url" target="_blank" rel="noopener noreferrer" rel="nofollow"><img width="150" height="150" src="https://github.com/user-attachments/assets/fb481e33-9c9b-48e7-be5e-38f9e0fda494" style="max-width: 100%;"> 
+</a>
+
+[![introduction-to-cybersecurity](https://github.com/user-attachments/assets/0617391e-ab99-4900-8990-e9c53e291988)](https://www.credly.com/badges/8b6fe839-63d4-4648-be55-6b65f601e5b1/public_url)
+
+<a href="https://www.credly.com/badges/8b6fe839-63d4-4648-be55-6b65f601e5b1/public_url" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0617391e-ab99-4900-8990-e9c53e291988" alt="introduction-to-cybersecurity">
+</a>
+
+
 ###
 
 <br clear="both">
@@ -22,8 +33,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">Languages and Tools:</h3>
 

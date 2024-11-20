@@ -91,17 +91,19 @@
   <a href="https://www.linkedin.com/in/jose-miguel-maldonado/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:jose.maldonadog88@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:balada.raga.01@icloud.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/56dfb9b7-ca4d-4d22-a1c2-7ffc87a0ee93" width="40" height="40" alt="icloud logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="center">You are the visitor:</h3>
+<br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/joanmike/count.svg?"  />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=joanmike&label=Profile%20Views&color=6&icon=2&pretty=false" />
+  </a>
 </div>
 
 ###
@@ -118,4 +120,3 @@
 JoanMike/JoanMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-

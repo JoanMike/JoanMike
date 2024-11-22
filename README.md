@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/user-attachments/assets/0a498f74-46bd-425a-bc77-3e14ebc9b9c1" width="1000"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a498f74-46bd-425a-bc77-3e14ebc9b9c1" width="1000" alt="header image"/>
 </div>
-<br clear="both">
 
 <h1 align="center">Hi 👋, I'm joanmike</h1>
 
@@ -9,22 +8,18 @@
 
 <h4 align="center">🌱 I’m currently learning C#, Python without leaving aside the amazing Java.<br><br>❤️ I love discovering new ways to automate my work.<br><br>💬 Ask me about VBA and process automation</h4>
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joanmike&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joanmike&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=joanmike&theme=darkhub&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joanmike&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joanmike&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joanmike&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=joanmike&theme=darkhub&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joanmike&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity graph" />
 </div>
 
-###
+---
 
 <h3 align="center">Languages and Tools:</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -78,11 +73,7 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Connect with me:</h3>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jose-miguel-maldonado/" target="_blank" rel="noopener noreferrer">
@@ -90,16 +81,6 @@
   </a>
   <a href="mailto:balada.raga.01@icloud.com" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/56dfb9b7-ca4d-4d22-a1c2-7ffc87a0ee93" width="40" height="40" alt="icloud logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=joanmike&label=Profile%20Views&color=6&icon=2&pretty=false" />
   </a>
 </div>
 
@@ -126,6 +107,14 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=joanmike&label=Profile%20Views&color=6&icon=2&pretty=false" />
+  </a>
+</div>
 
 <!---
 JoanMike/JoanMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

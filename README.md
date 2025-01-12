@@ -110,12 +110,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=joanmike&label=Profile%20Views&color=6&icon=2&pretty=false" />
-  </a>
-</div>
-
 <!---
 JoanMike/JoanMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

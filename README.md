@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm joanmike</h1>
 
-<h3 align="center">A passionate developer from Perú ❤️🤍❤️</h3>
+<h3 align="center">A Backend Developer from Perú ❤️🤍❤️</h3>
 
 <h4 align="center">🌱 I’m currently learning C#, Python without leaving aside the amazing Java.<br><br>❤️ I love discovering new ways to automate my work.<br><br>💬 Ask me about VBA and process automation</h4>
 
